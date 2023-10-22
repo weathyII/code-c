@@ -6,4 +6,4 @@ int main()
         if(i==10) break;
         else printf("%d",i);
     }
-}
+}6
